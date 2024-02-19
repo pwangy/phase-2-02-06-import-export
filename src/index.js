@@ -1,5 +1,5 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import ColoradoStateParks from "./ColoradoStateParks";
+import React from 'react'
+import ReactDOM from 'react-dom'
+import ColoradoStateParks from './ColoradoStateParks'
 
-ReactDOM.render(<ColoradoStateParks />, document.getElementById("root"));
+ReactDOM.render(<ColoradoStateParks />, document.getElementById('root'))

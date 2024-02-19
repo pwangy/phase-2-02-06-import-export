@@ -1,4 +1,3 @@
-import React from 'react'
 import howManyParks from './parks/howManyParks'
 
 function ColoradoStateParks() {
