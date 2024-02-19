@@ -1,10 +1,10 @@
 const trees = 'Aspen and Pine'
 
-function wildlife() {
+const wildlife = () => {
 	console.log('Elk, Bighorn Sheep, Moose')
 }
 
-function elevation() {
+const elevation = () => {
 	console.log('9583 ft')
 }
 

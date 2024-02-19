@@ -1,4 +1,4 @@
-function howManyParks() {
+const howManyParks = () => {
 	console.log('42 parks!')
 }
 
